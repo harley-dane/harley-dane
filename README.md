@@ -1,4 +1,4 @@
-# I am a frontend Developer
+# Hi! 👋 I am a frontend Developer
 
 ## About Me:
 
@@ -22,8 +22,6 @@ Lier Belgium
 3. Nerderlands
 
 4. Norwegean
-
-5. Japanis
 
 ##### My Hubbies:
 
