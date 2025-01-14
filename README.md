@@ -59,10 +59,10 @@ completed 2021
  https://www.linkedin.com/in/harley-dane-clair-duncan-b918a82a8/
 
 
-🤝 Let's Connect
+##### 🤝 Let's Connect
 
  
- Feel free to reach out! Whether you're interested in collaborating on a project, discussing new ideas, or just want to chat about tech:
+Feel free to reach out! Whether you're interested in collaborating on a project, discussing new ideas, or just want to chat about tech:
 
 📧 
 Thanks for stopping by, and I look forward to connecting with you soon!
