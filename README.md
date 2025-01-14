@@ -1,6 +1,5 @@
 # I am a frontend Developer
 
-![My-pic](./img/mee.jpeg)
 
 ## About Me:
 
