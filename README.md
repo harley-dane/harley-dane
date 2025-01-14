@@ -54,6 +54,6 @@ completed 2021
 ###### Contact
 
 harleydane71@gmail.com
-![](https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png)  https://www.linkedin.com/in/harley-dane-clair-duncan-b918a82a8/
+![](https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png width="50px")  https://www.linkedin.com/in/harley-dane-clair-duncan-b918a82a8/
 
 😊 :blush
