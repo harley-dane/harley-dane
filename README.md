@@ -13,7 +13,27 @@ Networking and Linux.
 
 Lier Belgium
 
-#### Languages:
+#### Education:
+
+Bachelor of Science in Information Technology
+
+University of Technology Managua
+
+Graduated: 2017
+
+Certifications:
+
+CCNA Networking
+
+Cisco
+
+Completed: 2019
+
+Linux
+
+completed 2021
+
+##### Languages:
 
 1. English
 
@@ -31,7 +51,7 @@ Lier Belgium
 
 - Baseball
 
-###### Contacto
+###### Contact
 
 harleydane71@gmail.com
 
