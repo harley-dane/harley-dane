@@ -9,9 +9,14 @@ frameworks like React, Angular, and Vue.js.I have a strong foundation in
 Information Technology, holding a degree in IT and certifications in CCNA
 Networking and Linux.
 
-### Current Location:
 
-Lier Belgium
+## 🛠️Technologies & Tools
+-- Languages
+- Proficient: JavaScript, Python, Java
+-- System-Level: Rust, C
+-- Web Development
+-- Front-End: HTML, CSS, Sass
+-- Frameworks & Libraries: React, Node.js, Django, 
 
 #### Education:
 
@@ -33,7 +38,7 @@ Linux
 
 completed 2021
 
-##### Languages:
+### Languages:
 
 1. English
 
@@ -51,12 +56,11 @@ completed 2021
 
 - Baseball
 
-###### Contact
+## Contact
 
- harleydane71@gmail.com 
+📧 harleydane71@gmail.com 
 
  
- https://www.linkedin.com/in/harley-dane-clair-duncan-b918a82a8/
 
 
 ## 🤝 Let's Connect
@@ -64,6 +68,6 @@ completed 2021
  
 Feel free to reach out! Whether you're interested in collaborating on a project, discussing new ideas, or just want to chat about tech:
 
-📧 
+ 
 Thanks for stopping by, and I look forward to connecting with you soon!
 😊 :blush
