@@ -12,11 +12,20 @@ Networking and Linux.
 
 ## 🛠️Technologies & Tools
 -- Languages
+
 - Proficient: JavaScript, Python, Java
--- System-Level: Rust, C
--- Web Development
--- Front-End: HTML, CSS, Sass
--- Frameworks & Libraries: React, Node.js, Django, 
+  
+
+-  System-Level: Rust, C
+  
+- Web Development
+ 
+
+- Front-End: HTML, CSS, Sass
+
+
+-  Frameworks & Libraries: React, Node.js, Django, 
+
 
 #### Education:
 
