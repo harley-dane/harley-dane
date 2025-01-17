@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I am Harley and a passionate and dedicated Frontend Developer with 1 years of
+I am Harley and a passionate and dedicated Frontend Developer with 
 experience in creating visually appealing and user-friendly web applications. My
 expertise lies in HTML, CSS, and JavaScript, along with modern frontend
 frameworks like React, Angular, and Vue.js.I have a strong foundation in
