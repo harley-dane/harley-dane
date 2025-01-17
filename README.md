@@ -11,21 +11,12 @@ Networking and Linux.
 
 
 ## 🛠️Technologies & Tools
--- Languages
 
-- Proficient: JavaScript, Python, Java
-  
-
--  System-Level: Rust, C
-  
-- Web Development
- 
-
-- Front-End: HTML, CSS, Sass
+Languages
 
 
--  Frameworks & Libraries: React, Node.js, Django,
 -  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+-  
 
 
 #### Education:
