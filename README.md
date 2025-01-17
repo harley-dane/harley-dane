@@ -13,7 +13,7 @@ Networking and Linux.
 
 Languages
 
--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harley-dane&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harley-dane&layout=compact)
 
 #### Education:
 
