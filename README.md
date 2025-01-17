@@ -15,7 +15,7 @@ Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harley-dane&layout=compact)
 
-#### Education:
+## Education:
 
 - Bachelor of Science in Information Technology
 
@@ -25,7 +25,7 @@ Languages
 
 - Linux
 
-### Languages:
+## Languages:
 
 1. English
 
@@ -35,7 +35,7 @@ Languages
 
 4. Norwegean
 
-##### My Hubbies:
+## My Hubbies:
 
 - Long tennis
 
