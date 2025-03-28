@@ -10,10 +10,14 @@ Information Technology, holding a degree in IT and certifications in CCNA
 Networking and Linux.
 
 ## 🛠️Technologies & Tools
+| Category               |                                                                                               |
+| ---------------------- | --------------------------------------------------------------------------------------------- |
+| Languages              | [![Languages](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)     |
+| Frameworks & Libraries | [![My Skills](https://skillicons.dev/icons?i=react,nodejs,bootstrap)](https://skillicons.dev) |
+| Databases              | [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)](https://skillicons.dev) |
+| Tools                  | [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)      |
 
-Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harley-dane&layout=compact)
 
 ## Education:
 
